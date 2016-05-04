@@ -1,0 +1,92 @@
+body{
+	background-color: #f2f2f2
+}
+.logo {
+	display: block;
+	margin: auto;
+
+	padding-top: 200px;
+
+}
+.logo img {
+	display: block;
+	border: none;
+	margin: auto;
+}
+
+.logo form {
+	margin: auto;
+
+	padding: 20px;
+
+
+}
+.logo #search #box {
+	display: block;
+	border: 1px #757575 solid;
+	margin: auto;
+	width: 484px; height: 38px;
+	background-color: #f2f2f2
+}
+
+center{
+	display: block;
+	text-align: -webkit-center;
+}
+input.submits {
+	background-color: #f2f2f2;
+	display: inline-block;
+	font-family: arial, sans-serif;
+	border: 1px solid #f2f2f2;
+	border-radius: 2px;
+	font-weight: bold;
+	font-size: 13px;
+	margin: 11px 4px;
+	padding: 0 16px;
+	min-width: 54px;
+	text-align: center;
+	color: #757575;
+}
+
+.nav {
+	position: relative;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+.nav ul li {
+	float: right;
+	margin: 5px;
+
+}
+.nav a, li{
+	display: block;
+	color: #000;
+	text-decoration: none;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+
+}
+.footer {
+	display: block;
+	bottom: 0px;
+	font-size: 10pt;
+	height: 35px;
+	position: absolute;
+	width: 100%;
+}
+.footer ul li {
+	margin: 5px;
+
+}
+.footer a, li{
+	display: inline-block;
+	color: #000;
+	text-decoration: none;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+
+}
